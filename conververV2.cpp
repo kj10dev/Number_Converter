@@ -12,7 +12,6 @@ string reverseString(string s){
     }
 
     return res;
-
 }
 
 int main(){
