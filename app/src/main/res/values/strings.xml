@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Converter</string>
+    <string name="convert">CONVERT</string>
+    <string name="contact">contact</string>
+    <string name="octal">Octal</string>
+    <string name="hexa">Hexa</string>
+    <string name="binary">Binary</string>
+
+</resources>
